@@ -1,0 +1,30 @@
+
+               h1{
+                text-align:center;
+               }
+               
+               .card{
+                height:450px;
+                background-color:olive;
+                width:21%;
+                float:left;
+                margin-left:2%;
+               }
+                  .card>h2{
+                    text-align: center;
+                  }
+                  .card>img{
+                        height:200px;
+                        width:100%;
+                    }
+                    #brown{
+                    background-color: #a35858
+                  }   
+                    .skyblue{
+                        background-color: #87ceeb
+                    }
+                      .white{
+                        background:rgb(232, 225, 225)
+                      }
+            
+    
